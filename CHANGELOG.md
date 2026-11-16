@@ -1,10 +1,10 @@
 # Changelog
 
 Every merge to `main` sends an "update available" notice to everyone who deployed this template. Read the entry before you apply an update.
-## Unreleased (2026-11-16)
 
-- README: Deploy on Railway button for the published template (`mirotalk-1`). No change to the app or its configuration.
+## 2.2.92-1 (2026-11-16)
 
+- README: Deploy on Railway button for the published template (`mirotalk-1`). No change to the app or its configuration, so applying this update changes nothing in your deployment.
 
 ## 2.2.92 (2026-11-16)
 
