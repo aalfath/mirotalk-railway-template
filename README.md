@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mirotalk-1?utm_medium=integration&utm_source=button&utm_campaign=mirotalk)
+
 # MiroTalk on Railway
 
 One-click Railway template for [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk), a self-hosted, browser-based WebRTC video calling app (AGPL-3.0). Rooms, screen sharing, chat, whiteboard, file sharing and in-browser recording, with no accounts and no client install.
